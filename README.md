@@ -12,7 +12,7 @@ You will also need **npm** to install the required dependencies.
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/NicolasKoriakos/Auomation-Challenge.git)
+   git clone (https://github.com/NicolasKoriakos/Auomation-Challenge.git)
    cd <project-folder>
    ```
 
